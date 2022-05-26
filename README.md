@@ -24,3 +24,20 @@
       --> PVT is the “last build” — the units you are building are supposedly intended to be sold to customers, if they pass all of your test stations. PVT typically transitions directly into Ramp and Mass Production, or a Pilot build with no time gap.
       --> PVT flows immediately into the phase of the program called Ramp, where parallel assembly lines are being brought up to increase daily output volume.
       --> Mass Production is a superset of Ramp and the sustaining production that follows.
+      
+# TYPICAL HARDWARE DEVELOPMENT SCHEDULE:
+## 1. Request For Proposal (RFP):
+      --> A request for proposal (RFP) is a business document that announces a project, describes it, and solicits bids from qualified contractors to complete it.
+## 2. Technical Response Proposal(TRP):
+     --> Technical Response means the information, which will be evaluated and scored, the Proponent submits within OTP as part of the Technical Envelope;
+     --> Information attached as part of the Commercial Envelope in OTP will not be considered as part of the evaluation of Stage II - Technical Response.
+     --> The reference checks themselves will not be scored, however, OECM may adjust Technical Response scores related to the information obtained during the reference check.
+     --> Provide a detailed explanation of the Offeror’s ability to provide the goods and services detailed in the Work Statement (Statement of work -- SOW).
+## 3. Schedule
+      --> A product development schedule representative of what a typical consumer electronics company might come up with and adopt is:
+      
+      TR --- 6-12 Weeks Make Soft tools ---> EVT --- 6-9 weeks EVT --- 2-4 weeks Revised Hard Tools ---> DVT (MP Tool Kickoff)
+      --- 12 weeks Make hard tools --> PVT -- 2 weeks ---> MP (OK To Ramp) --> Ongoing Reliability Testing
+      Bring up new lines, New Tool Qual and NEw Line Qual.
+      
+      
