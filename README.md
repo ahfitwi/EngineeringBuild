@@ -11,7 +11,7 @@
        --> Goals: To provide a proof of concept that demonstrates functionality to be vetted out by customers, clients, and even the design team itself.
        --> A combination of different form factors, including WORKS-LIKE & LOOKS LIKE
        --> POC --> EVT --> DVT --> PVT 
-       --> Possibly: P1 --> P1.5 -->P2 -->P3 -->EVT1 -->EVT2 -->DVT --> PVT --> MP
+       --> Possibly: P1 --> P1.5 -->P2 -->P3 -->EVT1 -->EVT2 -->DVT --> PVT --> Ramp --> MP/PB(Pilot Build)
        --> 10 or fewer builds
        --> EVT: typically 100 to 1000
        --> DVT's typical quantities: 300 to 2000
@@ -21,5 +21,6 @@
       --> Customers provide crucial pieces of feedback
 ## 5. Mass Production (MP)
       --> Increased volume, Assembly, and Quality Finishing constitute this phase
+       --> PVT is the “last build” — the units you are building are supposedly intended to be sold to customers, if they pass all of your test stations. PVT typically transitions directly into Ramp and Mass Production, or a Pilot build with no time gap.
       --> PVT flows immediately into the phase of the program called Ramp, where parallel assembly lines are being brought up to increase daily output volume.
       --> Mass Production is a superset of Ramp and the sustaining production that follows.
