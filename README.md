@@ -11,6 +11,7 @@
        --> Goals: To provide a proof of concept that demonstrates functionality to be vetted out by customers, clients, and even the design team itself.
        --> A combination of different form factors, including WORKS-LIKE & LOOKS LIKE
        --> POC --> EVT --> DVT --> PVT 
+       --> Possibly: P1 --> P1.5 -->P2 -->P3 -->EVT1 -->EVT2 -->DVT --> PVT --> MP
        --> 10 or fewer builds
        --> EVT: typically 100 to 1000
        --> DVT's typical quantities: 300 to 2000
