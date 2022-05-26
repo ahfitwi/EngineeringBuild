@@ -21,6 +21,6 @@
       --> Customers provide crucial pieces of feedback
 ## 5. Mass Production (MP)
       --> Increased volume, Assembly, and Quality Finishing constitute this phase
-       --> PVT is the “last build” — the units you are building are supposedly intended to be sold to customers, if they pass all of your test stations. PVT typically transitions directly into Ramp and Mass Production, or a Pilot build with no time gap.
+      --> PVT is the “last build” — the units you are building are supposedly intended to be sold to customers, if they pass all of your test stations. PVT typically transitions directly into Ramp and Mass Production, or a Pilot build with no time gap.
       --> PVT flows immediately into the phase of the program called Ramp, where parallel assembly lines are being brought up to increase daily output volume.
       --> Mass Production is a superset of Ramp and the sustaining production that follows.
