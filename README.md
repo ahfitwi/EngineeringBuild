@@ -1,4 +1,4 @@
-# EngineeringBuild
+# Engineering Build:
 ## 1. Ideation/Conceptualization of a Product
        --> Start with a well researched concept
        --> Have a product concept that somehow would transform the current market you are targeting
