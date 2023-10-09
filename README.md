@@ -35,6 +35,9 @@
      --> Provide a detailed explanation of the Offeror’s ability to provide the goods and services detailed in the Work Statement (Statement of work -- SOW).
 ## 3. Schedule
       --> A product development schedule representative of what a typical consumer electronics company might come up with and adopt is:
+
+# HW Engineering Terms:
+- https://instrumental.com/resources/optimize-manufacturing-processes/hardware-engineers-speak-in-code-evt-dvt-pvt-decoded/
       
       TR --- 6-12 Weeks Make Soft tools ---> EVT --- 6-9 weeks EVT --- 2-4 weeks Revised Hard Tools ---> DVT (MP Tool Kickoff)
       --- 12 weeks Make hard tools --> PVT -- 2 weeks ---> MP (OK To Ramp) --> Ongoing Reliability Testing
